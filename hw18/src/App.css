@@ -1,0 +1,34 @@
+.App {
+    padding: 100px 200px;
+    text-align: center;
+}
+
+.posts {
+    text-align: left;
+    padding: 15px 35px;
+    background-color: rgba(169, 169, 169, 0.2);
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+
+.posts h2 {
+    margin-top: 10px;
+}
+
+button {
+    border-radius: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    letter-spacing: 1px;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+    margin-left: 15px;
+}
+
+button:hover {
+    transition-delay: 0.3ms;
+    background-color: gray;
+}

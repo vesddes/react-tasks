@@ -1,0 +1,26 @@
+div {
+  padding: 50px;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 30px;
+}
+
+button {
+  border-radius: 10px;
+  border: none;
+  background-color: antiquewhite;
+  font-size: 15px;
+  letter-spacing: 1px;
+  width: 100px;
+  height: 40px;
+  cursor: pointer;
+  margin-left: 15px;
+}
+
+button:hover {
+  transition-delay: 0.3ms;
+  background-color: burlywood;
+}
+

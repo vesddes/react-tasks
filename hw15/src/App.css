@@ -1,0 +1,12 @@
+.App {
+  padding: 30px 30px;
+}
+
+
+ol {
+  font-size: calc(10px + 2vmin);
+}
+
+ol li {
+  margin-bottom: 15px;
+}
